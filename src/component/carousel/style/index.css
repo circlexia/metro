@@ -1,0 +1,7 @@
+.am-carousel-wrap-dot-active > span{
+  background: #333;
+  width: 15px;
+  border-radius: 30%;
+  height: 5px;
+  margin: 1px 3px;
+}

@@ -1,0 +1,19 @@
+.classify-container .am-flexbox .am-flexbox-item{
+  margin-top: .3rem;
+  margin-left: 0;
+}
+.classify-container{
+  padding: 6px 12px;
+  border-bottom: 12px solid #eee;
+}
+.classify-container img{
+  width: 1.2rem;
+  display: block;
+  margin: 0 auto;
+}
+.classify-container p {
+  text-align: center;
+  line-height: 25px;
+  height: 25px;
+  font-size: 14px;
+}
